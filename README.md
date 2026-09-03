@@ -1,6 +1,6 @@
 # Local LLM Policy Gap Analysis & Improvement Module
 
-Hack IITK 2026 submission: a fully offline, local-LLM-powered tool that
+A fully offline, local-LLM-powered tool that
 compares an organizational policy against the CIS MS-ISAC / NIST
 Cybersecurity Framework Policy Template Guide, reports gaps, revises the
 policy to close them, and produces a NIST-CSF-aligned improvement roadmap.
