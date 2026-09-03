@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "GV.OC-01",
+    "function": "Govern",
+    "category": "Organizational Context",
+    "category_code": "GV.OC",
+    "description": "The organizational mission is understood and informs cybersecurity risk management",
+    "policies": [
+      "Information Security Policy"
+    ]
+  },
+  {
+    "id": "GV.OC-02",
+    "function": "Govern",
+    "category": "Organizational Context",
+    "category_code": "GV.OC",
+    "description": "Internal and external stakeholders are understood, and their needs and expectations regarding cybersecurity risk management are understood and considered",
+    "policies": [
+      "Identification and Authentication Policy",
+      "Security Assessment and Authorization Policy",
+      "Systems and Services Acquisition Policy"
+    ]
+  },
+  {
+    "id": "GV.OC-03",
+    "function": "Govern",
+    "category": "Organizational Context",
+    "category_code": "GV.OC",
+    "description": "Legal, regulatory, and contractual requirements regarding cybersecurity\u2014 including privacy and civil liberties obligations\u2014are understood and managed",
+    "policies": [
+      "Identification and Authentication Policy",
+      "Security Assessment and Authorization Policy",
+      "Systems and Services Acquisition Policy"
+    ]
+  },
+  {
+    "id": "GV.OC-04",
+    "function": "Govern",
+    "category": "Organizational Context",
+    "category_code": "GV.OC",
+    "description": "Critical objectives, capabilities, and services that stakeholders depend on or expect from the organization are understood and communicated",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy"
+    ]
+  },
+  {
+    "id": "GV.OC-05",
+    "function": "Govern",
+    "category": "Organizational Context",
+    "category_code": "GV.OC",
+    "description": "Critical objectives, capabilities, and services that stakeholders depend on or expect from the organization are understood and communicated",
+    "policies": [
+      "System and Communications Protection Policy",
+      "Information Classification Standard",
+      "Information Security Policy"
+    ]
+  },
+  {
+    "id": "GV.RM-01",
+    "function": "Govern",
+    "category": "Risk Management Strategy",
+    "category_code": "GV.RM",
+    "description": "Risk management objectives are established and agreed to by organizational stakeholders",
+    "policies": [
+      "Information Security Policy",
+      "Information Security Risk Management",
+      "Standard Risk Assessment Policy"
+    ]
+  },
+  {
+    "id": "GV.RM-02",
+    "function": "Govern",
+    "category": "Risk Management Strategy",
+    "category_code": "GV.RM",
+    "description": "Risk appetite and risk tolerance statements are established, communicated, and maintained",
+    "policies": [
+      "Information Security Policy",
+      "Information Security Risk Management",
+      "Standard Risk Assessment Policy"
+    ]
+  },
+  {
+    "id": "GV.RM-03",
+    "function": "Govern",
+    "category": "Risk Management Strategy",
+    "category_code": "GV.RM",
+    "description": "Cybersecurity risk management activities and outcomes are included in enterprise risk management processes",
+    "policies": [
+      "Information Security Policy",
+      "Information Security Risk Management",
+      "Standard Risk Assessment Policy"
+    ]
+  },
+  {
+    "id": "GV.RM-04",
+    "function": "Govern",
+    "category": "Risk Management Strategy",
+    "category_code": "GV.RM",
+    "description": "Strategic direction that describes appropriate risk response options is established and communicated",
+    "policies": [
+      "Information Security Policy",
+      "Information Security Risk Management",
+      "Standard Risk Assessment Policy"
+    ]
+  },
+  {
+    "id": "GV.RM-05",
+    "function": "Govern",
+    "category": "Risk Management Strategy",
+    "category_code": "GV.RM",
+    "description": "Lines of communication across the organization are established for cybersecurity risks, including risks from suppliers and other third parties",
+    "policies": [
+      "Identification and Authentication Policy",
+      "Security Assessment and Authorization Policy",
+      "Systems and Services Acquisition Policy"
+    ]
+  },
+  {
+    "id": "GV.RM-06",
+    "function": "Govern",
+    "category": "Risk Management Strategy",
+    "category_code": "GV.RM",
+    "description": "A standardized method for calculating, documenting, categorizing, and prioritizing cybersecurity risks is established and communicated",
+    "policies": [
+      "Information Security Policy",
+      "Information Security Risk Management",
+      "Standard Risk Assessment Policy"
+    ]
+  },
+  {
+    "id": "GV.RM-07",
+    "function": "Govern",
+    "category": "Risk Management Strategy",
+    "category_code": "GV.RM",
+    "description": "Strategic opportunities (i.e., positive risks) are characterized and are included in organizational cybersecurity risk discussions",
+    "policies": [
+      "Information Security Policy",
+      "Information Security Risk Management",
+      "Standard Risk Assessment Policy"
+    ]
+  },
+  {
+    "id": "GV.RR-01",
+    "function": "Govern",
+    "category": "Roles, Responsibilities, and Authorities",
+    "category_code": "GV.RR",
+    "description": "Organizational leadership is responsible and accountable for cybersecurity risk and fosters a culture that is risk-aware, ethical, and continually improving",
+    "policies": [
+      "Acceptable Use of Information Technology Resource Policy",
+      "Information Security Policy",
+      "Security Awareness and Training Policy"
+    ]
+  },
+  {
+    "id": "GV.RR-02",
+    "function": "Govern",
+    "category": "Roles, Responsibilities, and Authorities",
+    "category_code": "GV.RR",
+    "description": "Roles, responsibilities, and authorities related to cybersecurity risk management are established, communicated, understood, and enforced",
+    "policies": [
+      "Acceptable Use of Information Technology Resource Policy",
+      "Information Security Policy",
+      "Security Awareness and Training Policy"
+    ]
+  },
+  {
+    "id": "GV.RR-03",
+    "function": "Govern",
+    "category": "Roles, Responsibilities, and Authorities",
+    "category_code": "GV.RR",
+    "description": "Adequate resources are allocated commensurate with the cybersecurity risk strategy, roles, responsibilities, and policies",
+    "policies": [
+      "Information Security Policy",
+      "Information Security Risk Management",
+      "Standard Risk Assessment Policy"
+    ]
+  },
+  {
+    "id": "GV.RR-04",
+    "function": "Govern",
+    "category": "Roles, Responsibilities, and Authorities",
+    "category_code": "GV.RR",
+    "description": "Cybersecurity is included in human resources practices",
+    "policies": [
+      "Information Security Policy",
+      "Personnel Security Policy",
+      "Physical and Environmental Protection Policy",
+      "Security Awareness and Training Policy"
+    ]
+  },
+  {
+    "id": "GV.PO-01",
+    "function": "Govern",
+    "category": "Policy",
+    "category_code": "GV.PO",
+    "description": "Policy for managing cybersecurity risks is established based on organizational context, cybersecurity strategy, and priorities and is communicated and enforced",
+    "policies": [
+      "Personnel Security Policy",
+      "Physical and Environmental Protection Policy",
+      "Security Awareness and Training Policy"
+    ]
+  },
+  {
+    "id": "GV.PO-02",
+    "function": "Govern",
+    "category": "Policy",
+    "category_code": "GV.PO",
+    "description": "Policy for managing cybersecurity risks is reviewed, updated, communicated, and enforced to reflect changes in requirements, threats, technology, and organizational mission",
+    "policies": [
+      "Personnel Security Policy",
+      "Physical and Environmental Protection Policy",
+      "Security Awareness and Training Policy"
+    ]
+  },
+  {
+    "id": "GV.OV-01",
+    "function": "Govern",
+    "category": "Oversight",
+    "category_code": "GV.OV",
+    "description": "Cybersecurity risk management strategy outcomes are reviewed to inform and adjust strategy and direction",
+    "policies": [
+      "Information Security Policy",
+      "Information Security Risk Management",
+      "Standard Risk Assessment Policy"
+    ]
+  },
+  {
+    "id": "GV.OV-02",
+    "function": "Govern",
+    "category": "Oversight",
+    "category_code": "GV.OV",
+    "description": "The cybersecurity risk management strategy is reviewed and adjusted to ensure coverage of organizational requirements and risks",
+    "policies": [
+      "Information Security Policy",
+      "Information Security Risk Management",
+      "Standard Risk Assessment Policy"
+    ]
+  },
+  {
+    "id": "GV.OV-03",
+    "function": "Govern",
+    "category": "Oversight",
+    "category_code": "GV.OV",
+    "description": "Organizational cybersecurity risk management performance is evaluated and reviewed for adjustments needed",
+    "policies": [
+      "Information Security Policy",
+      "Information Security Risk Management",
+      "Standard Risk Assessment Policy"
+    ]
+  },
+  {
+    "id": "GV.SC-01",
+    "function": "Govern",
+    "category": "Cybersecurity Supply Chain Risk Management",
+    "category_code": "GV.SC",
+    "description": "A cybersecurity supply chain risk management program, strategy, objectives, policies, and processes are established and agreed to by organizational stakeholders",
+    "policies": [
+      "Identification and Authentication Policy",
+      "Security Assessment and Authorization Policy",
+      "Systems and Services Acquisition Policy"
+    ]
+  },
+  {
+    "id": "GV.SC-02",
+    "function": "Govern",
+    "category": "Cybersecurity Supply Chain Risk Management",
+    "category_code": "GV.SC",
+    "description": "Cybersecurity roles and responsibilities for suppliers, customers, and partners are established, communicated, and coordinated internally and externally",
+    "policies": [
+      "Acceptable Use of Information Technology Resource Policy",
+      "Information Security Policy",
+      "Security Awareness and Training Policy"
+    ]
+  },
+  {
+    "id": "GV.SC-03",
+    "function": "Govern",
+    "category": "Cybersecurity Supply Chain Risk Management",
+    "category_code": "GV.SC",
+    "description": "Cybersecurity supply chain risk management is integrated into cybersecurity and enterprise risk management, risk assessment, and improvement processes",
+    "policies": [
+      "Identification and Authentication Policy",
+      "Security Assessment and Authorization Policy",
+      "Systems and Services Acquisition Policy"
+    ]
+  },
+  {
+    "id": "GV.SC-04",
+    "function": "Govern",
+    "category": "Cybersecurity Supply Chain Risk Management",
+    "category_code": "GV.SC",
+    "description": "Suppliers are known and prioritized by criticality",
+    "policies": [
+      "Identification and Authentication Policy",
+      "Security Assessment and Authorization Policy",
+      "Systems and Services Acquisition Policy"
+    ]
+  },
+  {
+    "id": "GV.SC-05",
+    "function": "Govern",
+    "category": "Cybersecurity Supply Chain Risk Management",
+    "category_code": "GV.SC",
+    "description": "Requirements to address cybersecurity risks in supply chains are established, prioritized, and integrated into contracts and other types of agreements with suppliers and other relevant third parties",
+    "policies": [
+      "Identification and Authentication Policy",
+      "Security Assessment and Authorization Policy",
+      "Systems and Services Acquisition Policy"
+    ]
+  },
+  {
+    "id": "GV.SC-06",
+    "function": "Govern",
+    "category": "Cybersecurity Supply Chain Risk Management",
+    "category_code": "GV.SC",
+    "description": "Planning and due diligence are performed to reduce risks before entering into formal supplier or other third-party relationships",
+    "policies": [
+      "Identification and Authentication Policy",
+      "Security Assessment and Authorization Policy",
+      "Systems and Services Acquisition Policy"
+    ]
+  },
+  {
+    "id": "GV.SC-07",
+    "function": "Govern",
+    "category": "Cybersecurity Supply Chain Risk Management",
+    "category_code": "GV.SC",
+    "description": "The risks posed by a supplier, their products and services, and other third parties are understood, recorded, prioritized, assessed, responded to, and monitored over the course of the relationship",
+    "policies": [
+      "Identification and Authentication Policy",
+      "Security Assessment and Authorization Policy",
+      "Systems and Services Acquisition Policy"
+    ]
+  },
+  {
+    "id": "GV.SC-08",
+    "function": "Govern",
+    "category": "Cybersecurity Supply Chain Risk Management",
+    "category_code": "GV.SC",
+    "description": "Relevant suppliers and other third parties are included in incident planning, response, and recovery activities",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Systems and Services Acquisition Policy"
+    ]
+  },
+  {
+    "id": "GV.SC-09",
+    "function": "Govern",
+    "category": "Cybersecurity Supply Chain Risk Management",
+    "category_code": "GV.SC",
+    "description": "Supply chain security practices are integrated into cybersecurity and enterprise risk management programs, and their performance is monitored throughout the technology product and service life cycle",
+    "policies": [
+      "Identification and Authentication Policy",
+      "Security Assessment and Authorization Policy",
+      "Systems and Services Acquisition Policy"
+    ]
+  },
+  {
+    "id": "GV.SC-10",
+    "function": "Govern",
+    "category": "Cybersecurity Supply Chain Risk Management",
+    "category_code": "GV.SC",
+    "description": "Cybersecurity supply chain risk management plans include provisions for activities that occur after the conclusion of a partnership or service agreement",
+    "policies": [
+      "Identification and Authentication Policy",
+      "Security Assessment and Authorization Policy",
+      "Systems and Services Acquisition Policy",
+      "Acceptable Use of Information Technology Resource Policy",
+      "Access Control Policy",
+      "Account Management/Access Control Standard",
+      "Identification and Authentication Policy",
+      "Information Security Policy",
+      "Security Assessment and Authorization Policy",
+      "Acceptable Use of Information Technology Resource Policy",
+      "Access Control Policy",
+      "Account Management/Access Control Standard",
+      "Identification and Authentication Policy",
+      "Information Security Policy",
+      "Security Assessment and Authorization Policy",
+      "System and Communications Protection Policy",
+      "System and Communications Protection Policy",
+      "Information Classification Standard",
+      "Information Security Policy",
+      "Information Classification Standard",
+      "Information Security Policy",
+      "Access Control Policy",
+      "Account Management/Access Control Standard",
+      "Configuration Management Policy",
+      "Identification and Authentication Policy",
+      "Sanitization Secure Disposal Standard",
+      "Secure Configuration Standard",
+      "Secure System Development Life Cycle Standard",
+      "Maintenance Policy",
+      "Remote Access Standard",
+      "Security Logging Standard"
+    ]
+  },
+  {
+    "id": "ID.RA-01",
+    "function": "Identify",
+    "category": "Risk Assessment",
+    "category_code": "ID.RA",
+    "description": "Vulnerabilities in assets are identified, validated, and recorded",
+    "policies": [
+      "Auditing and Accountability Standard",
+      "Security Logging Standard",
+      "System and Information Integrity Policy",
+      "Vulnerability Scanning Standard"
+    ]
+  },
+  {
+    "id": "ID.RA-02",
+    "function": "Identify",
+    "category": "Risk Assessment",
+    "category_code": "ID.RA",
+    "description": "Cyber threat intelligence is received from information sharing forums and sources",
+    "policies": [
+      "Auditing and Accountability Standard",
+      "Security Logging Standard",
+      "System and Information Integrity Policy",
+      "Vulnerability Scanning Standard"
+    ]
+  },
+  {
+    "id": "ID.RA-03",
+    "function": "Identify",
+    "category": "Risk Assessment",
+    "category_code": "ID.RA",
+    "description": "Internal and external threats to the organization are identified and recorded",
+    "policies": [
+      "Encryption Standard",
+      "Information Security Policy",
+      "Maintenance Policy",
+      "Media Protection Policy",
+      "Mobile Device Security",
+      "Security Assessment and Authorization Policy",
+      "Vulnerability Scanning Standard",
+      "Patch Management Standard"
+    ]
+  },
+  {
+    "id": "ID.RA-04",
+    "function": "Identify",
+    "category": "Risk Assessment",
+    "category_code": "ID.RA",
+    "description": "Potential impacts and likelihoods of threats exploiting vulnerabilities are identified and recorded",
+    "policies": [
+      "Auditing and Accountability Standard",
+      "Security Logging Standard",
+      "System and Information Integrity Policy",
+      "Vulnerability Scanning Standard"
+    ]
+  },
+  {
+    "id": "ID.RA-05",
+    "function": "Identify",
+    "category": "Risk Assessment",
+    "category_code": "ID.RA",
+    "description": "Threats, vulnerabilities, likelihoods, and impacts are used to understand inherent risk and inform risk response prioritization",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Information Security Policy"
+    ]
+  },
+  {
+    "id": "ID.RA-06",
+    "function": "Identify",
+    "category": "Risk Assessment",
+    "category_code": "ID.RA",
+    "description": "Risk responses are chosen, prioritized, planned, tracked, and communicated",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Information Security Policy"
+    ]
+  },
+  {
+    "id": "ID.RA-07",
+    "function": "Identify",
+    "category": "Risk Assessment",
+    "category_code": "ID.RA",
+    "description": "Changes and exceptions are managed, assessed for risk impact, recorded, and tracked",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Planning Policy"
+    ]
+  },
+  {
+    "id": "ID.RA-08",
+    "function": "Identify",
+    "category": "Risk Assessment",
+    "category_code": "ID.RA",
+    "description": "Processes for receiving, analyzing, and responding to vulnerability disclosures are established",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Information Security Policy"
+    ]
+  },
+  {
+    "id": "ID.RA-09",
+    "function": "Identify",
+    "category": "Risk Assessment",
+    "category_code": "ID.RA",
+    "description": "The authenticity and integrity of hardware and software are assessed prior to acquisition and use",
+    "policies": [
+      "System and Information Integrity Policy"
+    ]
+  },
+  {
+    "id": "ID.RA-10",
+    "function": "Identify",
+    "category": "Risk Assessment",
+    "category_code": "ID.RA",
+    "description": "Critical suppliers are assessed prior to acquisition",
+    "policies": [
+      "Identification and Authentication Policy",
+      "Security Assessment and Authorization Policy",
+      "Systems and Services Acquisition Policy"
+    ]
+  },
+  {
+    "id": "ID.IM-01",
+    "function": "Identify",
+    "category": "Improvement",
+    "category_code": "ID.IM",
+    "description": "Improvements are identified from evaluations",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy"
+    ]
+  },
+  {
+    "id": "ID.IM-02",
+    "function": "Identify",
+    "category": "Improvement",
+    "category_code": "ID.IM",
+    "description": "Improvements are identified from security tests and exercises, including those done in coordination with suppliers and relevant third parties",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "ID.IM-03",
+    "function": "Identify",
+    "category": "Improvement",
+    "category_code": "ID.IM",
+    "description": "Improvements are identified from execution of operational processes, procedures, and activities",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "ID.IM-04",
+    "function": "Identify",
+    "category": "Improvement",
+    "category_code": "ID.IM",
+    "description": "Incident response plans and other cybersecurity plans that affect operations are established, communicated, maintained, and improved",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Systems and Services Acquisition Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "PR.AA-01",
+    "function": "Protect",
+    "category": "Identity Management and Access Control",
+    "category_code": "PR.AA",
+    "description": "Identities and credentials for authorized users, services, and hardware are managed by the organization",
+    "policies": [
+      "Access Control Policy",
+      "Account Management/Access Control Standard",
+      "Configuration Management Policy",
+      "Identification and Authentication Policy",
+      "Sanitization Secure Disposal Standard",
+      "Secure Configuration Standard",
+      "Secure System Development Life Cycle Standard"
+    ]
+  },
+  {
+    "id": "PR.AA-02",
+    "function": "Protect",
+    "category": "Identity Management and Access Control",
+    "category_code": "PR.AA",
+    "description": "Identities are proofed and bound to credentials based on the context of interactions",
+    "policies": [
+      "Access Control Policy",
+      "Account Management/Access Control Standard",
+      "Authentication Tokens Standard",
+      "Configuration Management Policy",
+      "Identification and Authentication Policy"
+    ]
+  },
+  {
+    "id": "PR.AA-03",
+    "function": "Protect",
+    "category": "Identity Management and Access Control",
+    "category_code": "PR.AA",
+    "description": "Users, services, and hardware are authenticated",
+    "policies": [
+      "Remote Access Standard"
+    ]
+  },
+  {
+    "id": "PR.AA-04",
+    "function": "Protect",
+    "category": "Identity Management and Access Control",
+    "category_code": "PR.AA",
+    "description": "Identity assertions are protected, conveyed, and verified",
+    "policies": [
+      "Access Control Policy",
+      "Account Management/Access Control Standard",
+      "Authentication Tokens Standard",
+      "Configuration Management Policy",
+      "Identification and Authentication Policy"
+    ]
+  },
+  {
+    "id": "PR.AA-05",
+    "function": "Protect",
+    "category": "Identity Management and Access Control",
+    "category_code": "PR.AA",
+    "description": "Access permissions, entitlements, and authorizations are defined in a policy, managed, enforced, and reviewed, and incorporate the principles of least privilege and separation of duties",
+    "policies": [
+      "Access Control Policy",
+      "Account Management/Access Control Standard",
+      "Configuration Management Policy",
+      "Identification and Authentication Policy",
+      "Sanitization Secure Disposal Standard",
+      "Secure Configuration Standard",
+      "Secure System Development Life Cycle Standard",
+      "Remote Access Standard"
+    ]
+  },
+  {
+    "id": "PR.AA-06",
+    "function": "Protect",
+    "category": "Identity Management and Access Control",
+    "category_code": "PR.AA",
+    "description": "Physical access to assets is managed, monitored, and enforced commensurate with risk",
+    "policies": [
+      "Encryption Standard",
+      "Information Security Policy",
+      "Maintenance Policy",
+      "Media Protection Policy",
+      "Mobile Device Security",
+      "System and Communications Protection Policy"
+    ]
+  },
+  {
+    "id": "PR.AT-01",
+    "function": "Protect",
+    "category": "Awareness and Training",
+    "category_code": "PR.AT",
+    "description": "Personnel are provided with awareness and training so that they possess the knowledge and skills to perform general tasks with cybersecurity risks in mind",
+    "policies": [
+      "Information Security Policy",
+      "Personnel Security Policy",
+      "Physical and Environmental Protection Policy",
+      "Security Awareness and Training Policy",
+      "Acceptable Use of Information Technology Resource Policy"
+    ]
+  },
+  {
+    "id": "PR.AT-02",
+    "function": "Protect",
+    "category": "Awareness and Training",
+    "category_code": "PR.AT",
+    "description": "Individuals in specialized roles are provided with awareness and training so that they possess the knowledge and skills to perform relevant tasks with cybersecurity risks in mind",
+    "policies": [
+      "Information Security Policy",
+      "Personnel Security Policy",
+      "Physical and Environmental Protection Policy",
+      "Security Awareness and Training Policy",
+      "Access Control Policy",
+      "Account Management/Access Control Standard",
+      "Authentication Tokens Standard",
+      "Configuration Management Policy",
+      "Identification and Authentication Policy",
+      "Acceptable Use of Information Technology Resource Policy"
+    ]
+  },
+  {
+    "id": "PR.DS-01",
+    "function": "Protect",
+    "category": "Data Security",
+    "category_code": "PR.DS",
+    "description": "The confidentiality, integrity, and availability of data-at-rest are protected",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Encryption Standard",
+      "Incident Response Policy",
+      "Information Security Policy",
+      "Maintenance Policy",
+      "Media Protection Policy",
+      "Mobile Device Security",
+      "Patch Management Standard"
+    ]
+  },
+  {
+    "id": "PR.DS-02",
+    "function": "Protect",
+    "category": "Data Security",
+    "category_code": "PR.DS",
+    "description": "The confidentiality, integrity, and availability of data-in-transit are protected",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Encryption Standard",
+      "Incident Response Policy",
+      "Information Security Policy",
+      "Maintenance Policy",
+      "Media Protection Policy",
+      "Mobile Device Security",
+      "Patch Management Standard"
+    ]
+  },
+  {
+    "id": "PR.DS-10",
+    "function": "Protect",
+    "category": "Data Security",
+    "category_code": "PR.DS",
+    "description": "The confidentiality, integrity, and availability of data-in-use are protected",
+    "policies": [
+      "Sanitization Secure Disposal Standard",
+      "Secure Configuration Standard",
+      "Secure System Development Life Cycle Standard",
+      "Maintenance Policy",
+      "Media Protection Policy",
+      "Mobile Device Security"
+    ]
+  },
+  {
+    "id": "PR.DS-11",
+    "function": "Protect",
+    "category": "Data Security",
+    "category_code": "PR.DS",
+    "description": "The confidentiality, integrity, and availability of data-in-use are protected",
+    "policies": [
+      "Maintenance Policy",
+      "Media Protection Policy"
+    ]
+  },
+  {
+    "id": "PR.PS-01",
+    "function": "Protect",
+    "category": "Platform Security",
+    "category_code": "PR.PS",
+    "description": "Configuration management practices are established and applied",
+    "policies": [
+      "Configuration Management Policy"
+    ]
+  },
+  {
+    "id": "PR.PS-02",
+    "function": "Protect",
+    "category": "Platform Security",
+    "category_code": "PR.PS",
+    "description": "Software is maintained, replaced, and removed commensurate with risk",
+    "policies": [
+      "Maintenance Policy"
+    ]
+  },
+  {
+    "id": "PR.PS-03",
+    "function": "Protect",
+    "category": "Platform Security",
+    "category_code": "PR.PS",
+    "description": "Hardware is maintained, replaced, and removed commensurate with risk",
+    "policies": [
+      "Sanitization Secure Disposal Standard",
+      "Access Control Policy"
+    ]
+  },
+  {
+    "id": "PR.PS-04",
+    "function": "Protect",
+    "category": "Platform Security",
+    "category_code": "PR.PS",
+    "description": "Log records are generated and made available for continuous monitoring",
+    "policies": [
+      "Identification and Authentication Policy"
+    ]
+  },
+  {
+    "id": "PR.PS-05",
+    "function": "Protect",
+    "category": "Platform Security",
+    "category_code": "PR.PS",
+    "description": "Installation and execution of unauthorized software are prevented",
+    "policies": [
+      "Configuration Management Policy",
+      "Secure Configuration Standard"
+    ]
+  },
+  {
+    "id": "PR.PS-06",
+    "function": "Protect",
+    "category": "Platform Security",
+    "category_code": "PR.PS",
+    "description": "Secure software development practices are integrated, and their performance is monitored throughout the software development life cycle",
+    "policies": [
+      "Sanitization Secure Disposal Standard"
+    ]
+  },
+  {
+    "id": "PR.IR-01",
+    "function": "Protect",
+    "category": "Technology Infrastructure Resilience",
+    "category_code": "PR.IR",
+    "description": "Networks and environments are protected from unauthorized logical access and usage",
+    "policies": [
+      "Remote Access Standard",
+      "Mobile Device Security",
+      "Encryption Standard",
+      "Media Protection Policy",
+      "System and Communications Protection Policy"
+    ]
+  },
+  {
+    "id": "PR.IR-02",
+    "function": "Protect",
+    "category": "Technology Infrastructure Resilience",
+    "category_code": "PR.IR",
+    "description": "The organization's technology assets are protected from environmental threats",
+    "policies": [
+      "Secure Configuration Standard",
+      "Secure System Development Life Cycle Standard",
+      "Sanitization Secure Disposal Standard",
+      "Maintenance Policy"
+    ]
+  },
+  {
+    "id": "PR.IR-03",
+    "function": "Protect",
+    "category": "Technology Infrastructure Resilience",
+    "category_code": "PR.IR",
+    "description": "Mechanisms are implemented to achieve resilience requirements in normal and adverse situations",
+    "policies": [
+      "Secure System Development Life Cycle Standard",
+      "System and Information Integrity Policy",
+      "802.11 Wireless Network Security Standard"
+    ]
+  },
+  {
+    "id": "PR.IR-04",
+    "function": "Protect",
+    "category": "Technology Infrastructure Resilience",
+    "category_code": "PR.IR",
+    "description": "Adequate resource capacity to ensure availability is maintained",
+    "policies": [
+      "System and Information Integrity Policy"
+    ]
+  },
+  {
+    "id": "DE.AE-02",
+    "function": "Detect",
+    "category": "Adverse Event Analysis",
+    "category_code": "DE.AE",
+    "description": "Potentially adverse events are analyzed to better understand associated activities",
+    "policies": [
+      "Auditing and Accountability Standard",
+      "Secure Coding Standard",
+      "Security Logging Standard",
+      "System and Information Integrity Policy",
+      "Vulnerability Scanning Standard"
+    ]
+  },
+  {
+    "id": "DE.AE-03",
+    "function": "Detect",
+    "category": "Adverse Event Analysis",
+    "category_code": "DE.AE",
+    "description": "Information is correlated from multiple sources",
+    "policies": [
+      "Auditing and Accountability Standard",
+      "Security Logging Standard",
+      "System and Information Integrity Policy",
+      "Vulnerability Scanning Standard"
+    ]
+  },
+  {
+    "id": "DE.AE-04",
+    "function": "Detect",
+    "category": "Adverse Event Analysis",
+    "category_code": "DE.AE",
+    "description": "The estimated impact and scope of adverse events are understood",
+    "policies": [
+      "Auditing and Accountability Standard",
+      "System and Information Integrity Policy"
+    ]
+  },
+  {
+    "id": "DE.AE-06",
+    "function": "Detect",
+    "category": "Adverse Event Analysis",
+    "category_code": "DE.AE",
+    "description": "Information on adverse events is provided to authorized staff and tools",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Information Security Policy"
+    ]
+  },
+  {
+    "id": "DE.AE-07",
+    "function": "Detect",
+    "category": "Adverse Event Analysis",
+    "category_code": "DE.AE",
+    "description": "Cyber threat intelligence and other contextual information are integrated into the analysis",
+    "policies": [
+      "Auditing and Accountability Standard",
+      "Security Logging Standard",
+      "System and Information Integrity Policy",
+      "Vulnerability Scanning Standard"
+    ]
+  },
+  {
+    "id": "DE.AE-08",
+    "function": "Detect",
+    "category": "Adverse Event Analysis",
+    "category_code": "DE.AE",
+    "description": "Incidents are declared when adverse events meet the defined incident criteria",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Information Security Policy",
+      "System and Information Integrity Policy",
+      "Vulnerability Scanning Standard"
+    ]
+  },
+  {
+    "id": "DE.CM-01",
+    "function": "Detect",
+    "category": "Continuous Monitoring",
+    "category_code": "DE.CM",
+    "description": "Networks and network services are monitored to find potentially adverse events",
+    "policies": [
+      "Maintenance Policy",
+      "Auditing and Accountability Standard",
+      "Security Logging Standard",
+      "System and Information Integrity Policy",
+      "Vulnerability Scanning Standard"
+    ]
+  },
+  {
+    "id": "DE.CM-02",
+    "function": "Detect",
+    "category": "Continuous Monitoring",
+    "category_code": "DE.CM",
+    "description": "The physical environment is monitored to find potentially adverse events",
+    "policies": [
+      "Auditing and Accountability Standard",
+      "Security Logging Standard",
+      "System and Information Integrity Policy",
+      "Vulnerability Scanning Standard"
+    ]
+  },
+  {
+    "id": "DE.CM-03",
+    "function": "Detect",
+    "category": "Continuous Monitoring",
+    "category_code": "DE.CM",
+    "description": "Personnel activity and technology usage are monitored to find potentially adverse events",
+    "policies": [
+      "Auditing and Accountability Standard",
+      "Security Logging Standard",
+      "System and Information Integrity Policy",
+      "Vulnerability Scanning Standard"
+    ]
+  },
+  {
+    "id": "DE.CM-06",
+    "function": "Detect",
+    "category": "Continuous Monitoring",
+    "category_code": "DE.CM",
+    "description": "External service provider activities and services are monitored to find potentially adverse events",
+    "policies": [
+      "Auditing and Accountability Standard",
+      "Security Logging Standard",
+      "System and Information Integrity Policy",
+      "Vulnerability Scanning Standard"
+    ]
+  },
+  {
+    "id": "DE.CM-09",
+    "function": "Detect",
+    "category": "Continuous Monitoring",
+    "category_code": "DE.CM",
+    "description": "Computing hardware and software, runtime environments, and their data are monitored to find potentially adverse events",
+    "policies": [
+      "Auditing and Accountability Standard",
+      "Security Logging Standard",
+      "System and Information Integrity Policy"
+    ]
+  },
+  {
+    "id": "RS.MA-01",
+    "function": "Respond",
+    "category": "Incident Management",
+    "category_code": "RS.MA",
+    "description": "The incident response plan is executed in coordination with relevant third parties once an incident is declared",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy"
+    ]
+  },
+  {
+    "id": "RS.MA-02",
+    "function": "Respond",
+    "category": "Incident Management",
+    "category_code": "RS.MA",
+    "description": "Incident reports are triaged and validated",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy"
+    ]
+  },
+  {
+    "id": "RS.MA-03",
+    "function": "Respond",
+    "category": "Incident Management",
+    "category_code": "RS.MA",
+    "description": "Incidents are categorized and prioritized",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy"
+    ]
+  },
+  {
+    "id": "RS.MA-04",
+    "function": "Respond",
+    "category": "Incident Management",
+    "category_code": "RS.MA",
+    "description": "Incidents are escalated or elevated as needed",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy"
+    ]
+  },
+  {
+    "id": "RS.MA-05",
+    "function": "Respond",
+    "category": "Incident Management",
+    "category_code": "RS.MA",
+    "description": "The criteria for initiating incident recovery are applied",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy"
+    ]
+  },
+  {
+    "id": "RS.CO-02",
+    "function": "Respond",
+    "category": "Incident Response Reporting and Communication",
+    "category_code": "RS.CO",
+    "description": "Internal and external stakeholders are notified of incidents",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "RS.CO-03",
+    "function": "Respond",
+    "category": "Incident Response Reporting and Communication",
+    "category_code": "RS.CO",
+    "description": "Information is shared with designated internal and external stakeholders",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy",
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy"
+    ]
+  },
+  {
+    "id": "RS.AN-03",
+    "function": "Respond",
+    "category": "Incident Analysis",
+    "category_code": "RS.AN",
+    "description": "Analysis is performed to establish what has taken place during an incident and the root cause of the incident",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "RS.AN-06",
+    "function": "Respond",
+    "category": "Incident Analysis",
+    "category_code": "RS.AN",
+    "description": "Actions performed during an investigation are recorded, and the records' integrity and provenance are preserved",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "RS.AN-07",
+    "function": "Respond",
+    "category": "Incident Analysis",
+    "category_code": "RS.AN",
+    "description": "Incident data and metadata are collected, and their integrity and provenance are preserved",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "RS.AN-08",
+    "function": "Respond",
+    "category": "Incident Analysis",
+    "category_code": "RS.AN",
+    "description": "An incident's magnitude is estimated and validated",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "RS.MI-01",
+    "function": "Respond",
+    "category": "Incident Mitigation",
+    "category_code": "RS.MI",
+    "description": "Incidents are contained",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "RS.MI-02",
+    "function": "Respond",
+    "category": "Incident Mitigation",
+    "category_code": "RS.MI",
+    "description": "Incidents are eradicated",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "RC.RP-01",
+    "function": "Recover",
+    "category": "Incident Recovery Plan Execution",
+    "category_code": "RC.RP",
+    "description": "The recovery portion of the incident response plan is executed once initiated from the incident response process",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "RC.RP-02",
+    "function": "Recover",
+    "category": "Incident Recovery Plan Execution",
+    "category_code": "RC.RP",
+    "description": "Recovery actions are selected, scoped, prioritized, and performed",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "RC.RP-03",
+    "function": "Recover",
+    "category": "Incident Recovery Plan Execution",
+    "category_code": "RC.RP",
+    "description": "The integrity of backups and other restoration assets is verified before using them for restoration",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "RC.RP-04",
+    "function": "Recover",
+    "category": "Incident Recovery Plan Execution",
+    "category_code": "RC.RP",
+    "description": "Critical mission functions and cybersecurity risk management are considered to establish post-incident operational norms",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "RC.RP-05",
+    "function": "Recover",
+    "category": "Incident Recovery Plan Execution",
+    "category_code": "RC.RP",
+    "description": "The integrity of restored assets is verified, systems and services are restored, and normal operating status is confirmed",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy"
+    ]
+  },
+  {
+    "id": "RC.RP-06",
+    "function": "Recover",
+    "category": "Incident Recovery Plan Execution",
+    "category_code": "RC.RP",
+    "description": "The end of incident recovery is declared based on criteria, and incident-related documentation is completed",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy",
+      "Contingency Planning Policy",
+      "Incident Response Policy"
+    ]
+  },
+  {
+    "id": "RC.CO-03",
+    "function": "Recover",
+    "category": "Incident Recovery Communication",
+    "category_code": "RC.CO",
+    "description": "Recovery activities and progress in restoring operational capabilities are communicated to designated internal and external stakeholders",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Contingency Planning Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy"
+    ]
+  },
+  {
+    "id": "RC.CO-04",
+    "function": "Recover",
+    "category": "Incident Recovery Communication",
+    "category_code": "RC.CO",
+    "description": "Public updates on incident recovery are shared using approved methods and messaging",
+    "policies": [
+      "Computer Security Threat Response Policy",
+      "Contingency Planning Policy",
+      "Cyber Incident Response Standard",
+      "Incident Response Policy"
+    ]
+  }
+]

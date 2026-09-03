@@ -1,0 +1,37 @@
+INFORMATION SECURITY MANAGEMENT SYSTEM (ISMS) POLICY
+Acme Financial Services
+
+1. Purpose
+This policy establishes the framework for managing information security across
+Acme Financial Services, ensuring the confidentiality, integrity, and
+availability of company and customer information.
+
+2. Scope
+This policy applies to all employees, contractors, and third parties who
+access Acme's information systems.
+
+3. Information Security Objectives
+Acme is committed to protecting its information assets from unauthorized
+access, disclosure, alteration, and destruction. Security objectives are
+set annually by the IT department.
+
+4. Organizational Structure
+The IT Manager is responsible for day-to-day information security operations.
+Security-related decisions are escalated to the IT Manager as needed.
+
+5. Acceptable Use
+Employees must use company systems only for business purposes. Personal use
+of email and internet is permitted within reasonable limits.
+
+6. Security Awareness
+New employees receive a security overview during onboarding.
+
+7. Incident Handling
+Employees who notice unusual system behavior should contact the IT helpdesk.
+
+8. Policy Enforcement
+Violations of this policy may result in disciplinary action up to and
+including termination.
+
+9. Policy Review
+This policy is reviewed by the IT department on an as-needed basis.

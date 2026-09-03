@@ -1,0 +1,30 @@
+PATCH MANAGEMENT POLICY
+Acme Financial Services
+
+1. Purpose
+This policy defines how Acme applies software patches and updates to its
+systems to reduce security vulnerabilities.
+
+2. Scope
+This policy applies to all servers and workstations owned by Acme.
+
+3. Patch Sources
+Patches are obtained from official vendor websites and update services.
+
+4. Patch Testing
+Critical patches are tested by IT staff before being applied to production
+systems where practical.
+
+5. Patch Deployment
+The IT team applies patches on a monthly schedule. Emergency patches for
+actively exploited vulnerabilities are applied as soon as possible.
+
+6. Roles
+The IT team is responsible for identifying and applying patches.
+
+7. Exceptions
+Systems that cannot be patched due to compatibility issues will be noted
+by the IT team.
+
+8. Recordkeeping
+The IT team keeps a spreadsheet of patches applied each month.

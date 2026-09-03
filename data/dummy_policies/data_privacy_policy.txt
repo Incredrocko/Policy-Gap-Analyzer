@@ -1,0 +1,26 @@
+DATA PRIVACY AND SECURITY POLICY
+
+1. Purpose
+This policy establishes rules for how the company handles personal and
+sensitive data.
+
+2. Scope
+This policy applies to all employees who handle customer data.
+
+3. Data Collection
+The company will only collect data that is necessary for business purposes.
+Employees should avoid collecting unnecessary personal information.
+
+4. Data Storage
+Customer data is stored on company servers. Access is restricted to
+authorized personnel.
+
+5. Data Sharing
+Data will not be shared with third parties without appropriate justification.
+
+6. Employee Responsibilities
+All employees must handle data responsibly and report any suspected data
+breaches to their manager.
+
+7. Policy Review
+This policy will be reviewed periodically.

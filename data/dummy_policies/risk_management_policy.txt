@@ -1,0 +1,31 @@
+RISK MANAGEMENT POLICY
+Acme Financial Services
+
+1. Purpose
+This policy establishes how Acme identifies, assesses, and responds to
+cybersecurity risks.
+
+2. Scope
+This policy applies to all information systems and business processes at
+Acme that involve handling of company or customer data.
+
+3. Risk Identification
+The IT department identifies potential risks to information systems through
+periodic reviews.
+
+4. Risk Assessment
+Identified risks are informally discussed by the IT team and prioritized
+based on team judgment.
+
+5. Risk Response
+For significant risks, the IT Manager decides on an appropriate response,
+which may include mitigation, acceptance, or transfer.
+
+6. Vendor Risk
+New software vendors are reviewed by IT before procurement approval.
+
+7. Reporting
+Risk-related updates are shared with department heads as needed.
+
+8. Review
+This policy will be revisited periodically.
